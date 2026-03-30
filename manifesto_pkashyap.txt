@@ -1,20 +1,20 @@
 ========================================
         MY OPEN SOURCE MANIFESTO
- Generated on: 30 March 2026
+ Generated on: 31 March 2026
  By: pkashyap
 ========================================
 
 I believe in the power of open source software.
 
-Every day, I rely on clear — a tool that exists
+Every day, I rely on Ctrl + C — a tool that exists
 not because a corporation sells it,
 but because someone shared it freely.
 
-To me, freedom means clear.
+To me, freedom means Ctrl + C.
 In software, that freedom is the foundation:
 the freedom to read, modify, learn, and share.
 
-One day, I want to build clear and release it openly,
+One day, I want to build Ctrl + C and release it openly,
 continuing the cycle of shared knowledge.
 
 The Linux Kernel started as a student's project.
@@ -22,5 +22,5 @@ Today it powers the internet and billions of devices.
 
 This is my commitment to open source.
 
-Signed: pkashyap | 30 March 2026
+Signed: pkashyap | 31 March 2026
 ========================================
